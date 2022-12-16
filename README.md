@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvilAnshu
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning python with django framework
+- 🌱 I’m currently learning mern technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email- anshuverma555.av@gmail.com
 
