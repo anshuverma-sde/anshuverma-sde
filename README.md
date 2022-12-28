@@ -57,9 +57,9 @@
     <a href="https://linkedin.com/in/evilanshu">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/evilanshu" />
     </a>
-    <a href="https://twitter.com/EvilAnshu">
+ <!--   <a href="https://twitter.com/EvilAnshu">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/EvilAnshu" />
-    </a>
+    </a>  -->
     <a href="http://evilanshu.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilAnshu.github.io/" />
   
