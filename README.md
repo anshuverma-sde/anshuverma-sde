@@ -6,18 +6,18 @@
  <br/></h2>
  
  <h3 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team.</h3>
-<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="http://evilanshu.github.io/">
+<h3 align="center">I dream to get recognized globally by something that I can do for my society. you can also visit.  <a href="https://anshuverma-sde.vercel.app/">
   <br />  <br />  
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilanshu.github.io/" /></h3>
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://anshuverma-sde.vercel.app/" /></h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/EvilAnshu">
-        <img src="https://komarev.com/ghpvc/?username=EvilAnshu&label=Profile%20views&color=0e75b6&style=flat" alt="EvilAnshu" />
+    <a href="https://github.com/anshuverma-sde">
+        <img src="https://komarev.com/ghpvc/?username=anshuverma-sde&label=Profile%20views&color=0e75b6&style=flat" alt="anshuverma-sde" />
     </a>
-    <a href="https://github.com/EvilAnshu?tab=followers">
-        <img src="https://img.shields.io/github/followers/EvilAnshu?label=Followers&style=social" alt="followers-count">
+    <a href="https://github.com/anshuverma-sde?tab=followers">
+        <img src="https://img.shields.io/github/followers/anshuverma-sde?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -54,14 +54,14 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/evilanshu">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/evilanshu" />
+    <a href="https://linkedin.com/in/anshuverma-sde">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/anshuverma-sde" />
     </a>
  <!--   <a href="https://twitter.com/EvilAnshu">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/EvilAnshu" />
     </a>  -->
-    <a href="http://evilanshu.github.io/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="evilAnshu.github.io/" />
+    <a href="https://anshuverma-sde.vercel.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://anshuverma-sde.vercel.app/" />
   
 </p>
 <br>
@@ -71,8 +71,8 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EvilAnshu&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="EvilAnshu" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilAnshu&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="EvilAnshu" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuverma-sde&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="anshuverma-sde" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuverma-sde&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="anshuverma-sde" height="139" />
 </p>
 <br>
 
